@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ModelsLab/modelslab-cli/releases/download/v0.1.0/modelslab_0.1.0_windows_amd64.zip",
+            "bin": [
+                "modelslab.exe"
+            ],
+            "hash": "ef486f3ea9f9f1281eec68183da45e701b117523ddfbca3a2abf2cb6b9d83e67"
+        },
+        "arm64": {
+            "url": "https://github.com/ModelsLab/modelslab-cli/releases/download/v0.1.0/modelslab_0.1.0_windows_arm64.zip",
+            "bin": [
+                "modelslab.exe"
+            ],
+            "hash": "1e695bb0bfe7455244bea9be52e5cda89089a6e177336c5ac104b0c1813ce2f4"
+        }
+    },
+    "homepage": "https://modelslab.sh",
+    "license": "MIT",
+    "description": "ModelsLab CLI — AI generation and account management from the terminal"
+}
