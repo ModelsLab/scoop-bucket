@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ModelsLab/modelslab-cli/releases/download/v0.1.1/modelslab_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/ModelsLab/modelslab-cli/releases/download/v0.1.2/modelslab_0.1.2_windows_amd64.zip",
             "bin": [
                 "modelslab.exe"
             ],
-            "hash": "f863a276c7680358bb672cc59810a6647d9f1ebabb469257097950df522b4cc1"
+            "hash": "b954503ef9f3099f5123aeec107bd7bd39a5a921dcfa3aef7d9ef33a18042972"
         },
         "arm64": {
-            "url": "https://github.com/ModelsLab/modelslab-cli/releases/download/v0.1.1/modelslab_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/ModelsLab/modelslab-cli/releases/download/v0.1.2/modelslab_0.1.2_windows_arm64.zip",
             "bin": [
                 "modelslab.exe"
             ],
-            "hash": "48be20a9629cc30bd14255bdddd0f181c183bc2b3f42fa7ff2e1e348cce10ae4"
+            "hash": "887442e2c2e5acad9a1b53efaa1eb218ee7808e3b31bb93827f17898927972ef"
         }
     },
     "homepage": "https://modelslab.sh",
